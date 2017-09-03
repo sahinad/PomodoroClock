@@ -1,0 +1,60 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Barrio|Keania+One|Metamorphous|Montserrat+Subrayada');
+
+body {
+  background: #844;
+  user-select: none;
+}
+
+p {
+  text-align: center;
+  font-family: 'Metamorphous', cursive;
+  font-size: 48pt;
+  margin: 50px auto;
+}
+
+span {
+  text-align: center;
+  padding: 20px;
+  font-size: 20pt;
+  cursor: pointer;
+}
+
+#clock {
+  width: 300px;
+  height: 300px;
+  /*border-radius: 50%;*/
+  /*border: 5px solid #369;*/
+  margin: 0 auto;
+  cursor: pointer;
+  position: relative;
+}
+
+#break {
+  margin: auto;
+  text-align: center;
+  font-weight: bold;
+  font-size: 16pt;
+  font-family: 'Keania One', cursive;
+}
+
+#session {
+  margin: auto;
+  text-align: center;
+  font-weight: bold;
+  font-size: 16pt;
+  font-family: 'Keania One', cursive;
+}
+
+#title {
+  text-align: center;
+  margin: 5px auto;
+  font-size: 48pt;
+  font-family: 'Keania One', cursive;
+}
+
+#time {
+  text-align: center;
+  margin: 0 auto;
+  font-size: 48pt;
+  font-family: 'Keania One', cursive;
+}

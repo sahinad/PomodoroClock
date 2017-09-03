@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8" />    
+    <script src="https://code.jquery.com/jquery-3.2.1.js"
+            integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE="
+            crossorigin="anonymous"></script>    
+    <script src="https://rawgit.com/kimmobrunfeldt/progressbar.js/1.0.0/dist/progressbar.js"></script>
+    <script src="script.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="style.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="container">
+        <p>POMODORO CLOCK</p>
+        <div id="title">SESSION</div>
+        <div class="row">
+            <div id="break" class="col-md-4">
+                BREAK LENGTH
+                <br><br>
+                <div>
+                    <span class="minus">-</span><span id="blength">5</span><span class="plus">+</span>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div id="clock">
+                </div>                
+            </div>
+            <div id="session" class="col-md-4">
+                SESSION LENGTH
+                <br><br>
+                <div>
+                    <span class="minus">-</span><span id="slength">25</span><span class="plus">+</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

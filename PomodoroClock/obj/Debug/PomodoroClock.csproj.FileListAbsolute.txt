@@ -1,0 +1,41 @@
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\PomodoroClock\PomodoroClock\bin\ApplicationInsights.config
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\PomodoroClock\PomodoroClock\bin\roslyn\csc.exe
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\PomodoroClock\PomodoroClock\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\PomodoroClock\PomodoroClock\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\PomodoroClock\PomodoroClock\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\PomodoroClock\PomodoroClock\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\PomodoroClock\PomodoroClock\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\PomodoroClock\PomodoroClock\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\PomodoroClock\PomodoroClock\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\PomodoroClock\PomodoroClock\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\PomodoroClock\PomodoroClock\bin\roslyn\vbc.exe
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\PomodoroClock\PomodoroClock\bin\roslyn\VBCSCompiler.exe
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\PomodoroClock\PomodoroClock\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\PomodoroClock\PomodoroClock\bin\PomodoroClock.dll.config
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\PomodoroClock\PomodoroClock\bin\PomodoroClock.dll
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\PomodoroClock\PomodoroClock\bin\PomodoroClock.pdb
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\PomodoroClock\PomodoroClock\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\PomodoroClock\PomodoroClock\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\PomodoroClock\PomodoroClock\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\PomodoroClock\PomodoroClock\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\PomodoroClock\PomodoroClock\bin\Microsoft.AI.Web.dll
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\PomodoroClock\PomodoroClock\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\PomodoroClock\PomodoroClock\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\PomodoroClock\PomodoroClock\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\PomodoroClock\PomodoroClock\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\PomodoroClock\PomodoroClock\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\PomodoroClock\PomodoroClock\bin\Microsoft.AI.Web.xml
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\PomodoroClock\PomodoroClock\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\PomodoroClock\PomodoroClock\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\PomodoroClock\PomodoroClock\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\PomodoroClock\PomodoroClock\obj\Debug\PomodoroClock.csprojResolveAssemblyReference.cache
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\PomodoroClock\PomodoroClock\obj\Debug\PomodoroClock.dll
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\PomodoroClock\PomodoroClock\obj\Debug\PomodoroClock.pdb
+C:\Users\Adem\Documents\Visual Studio 2017\Projects\PomodoroClock\PomodoroClock\bin\ApplicationInsights.config
+C:\Users\Adem\Documents\Visual Studio 2017\Projects\PomodoroClock\PomodoroClock\bin\PomodoroClock.dll.config
+C:\Users\Adem\Documents\Visual Studio 2017\Projects\PomodoroClock\PomodoroClock\bin\PomodoroClock.dll
+C:\Users\Adem\Documents\Visual Studio 2017\Projects\PomodoroClock\PomodoroClock\bin\PomodoroClock.pdb
+C:\Users\Adem\Documents\Visual Studio 2017\Projects\PomodoroClock\PomodoroClock\obj\Debug\PomodoroClock.csprojResolveAssemblyReference.cache
+C:\Users\Adem\Documents\Visual Studio 2017\Projects\PomodoroClock\PomodoroClock\obj\Debug\PomodoroClock.csproj.CoreCompileInputs.cache
+C:\Users\Adem\Documents\Visual Studio 2017\Projects\PomodoroClock\PomodoroClock\obj\Debug\PomodoroClock.dll
+C:\Users\Adem\Documents\Visual Studio 2017\Projects\PomodoroClock\PomodoroClock\obj\Debug\PomodoroClock.pdb
